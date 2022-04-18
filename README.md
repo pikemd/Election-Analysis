@@ -15,6 +15,10 @@
 2018
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/101365965/163744110-296f92ba-62ca-4357-a6d9-b5cf9de98027.png)
 
-The advantages of using the orginal code and refractoring it is you have a base line for some of the information needed, but you also have the disadvantage of trying to make sure you keep the data doing what it was intended to be doing verses trying to make it do something else. 
+## Advantages and Disadvantages 
 
-In this VBA refactoring it has to the advantage of all the tickers were already set up which saved a bit of time to get things started. The disadvantage of working through this code was trying to understand the best way to use data provided to follow the sheet as already set up.
+- The advantages of using the orginal code and refractoring it is you have a base line for some of the information needed, but you also have the disadvantage of trying to make sure you keep the data doing what it was intended to be doing verses trying to make it do something else. 
+
+- In this VBA refactoring it has to the advantage of all the tickers were already set up which saved a bit of time to get things started. The disadvantage of working through this code was trying to understand the best way to use data provided to follow the sheet as already set up.
+
+- Images have been attached as resources.
