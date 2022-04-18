@@ -9,8 +9,10 @@
 
 ### Challenges and Difficulties Encountered was getting the code to work correctly in order to give the information for the given year you wanted, and the percentage of difference between the starting and ending price.
 
+2017
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/101365965/163744082-04356432-a492-4e2a-8aeb-9a4836a8f25a.png)
 
+2018
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/101365965/163744110-296f92ba-62ca-4357-a6d9-b5cf9de98027.png)
 
 The advantages of using the orginal code and refractoring it is you have a base line for some of the information needed, but you also have the disadvantage of trying to make sure you keep the data doing what it was intended to be doing verses trying to make it do something else. 
